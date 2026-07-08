@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kumarishreya/Desktop/Student_Grade_Calculation/Student_Grade'
+relocations:     []
+...
